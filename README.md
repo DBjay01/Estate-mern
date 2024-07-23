@@ -1,2 +1,0 @@
-# Estate-mern
-Real estate 
