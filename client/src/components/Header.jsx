@@ -32,7 +32,7 @@ export default function Header() {
           </Link>
 
           <Link to='/About'>
-            <li className='font-bold text-sm sm:text-lg  hidden sm:inline bg-gradient-to-r from-violet-600 to-indigo-600 bg-clip-text text-transparent hidden sm:inline  '>
+            <li className='font-bold text-sm sm:text-lg  hidden sm:inline bg-gradient-to-r from-violet-600 to-indigo-600 bg-clip-text text-transparent  '>
               About
             </li>
           </Link>
